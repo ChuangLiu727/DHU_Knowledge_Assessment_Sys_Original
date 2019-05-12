@@ -1,4 +1,4 @@
-# DHU_Knowledge_Assessment_Sys_Original
+# DHU_Knowledge_Assessment_Platform
 
 ## 使用说明：
 
